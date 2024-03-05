@@ -1,5 +1,5 @@
 # program that prints out a random number between 1 and 10
-#A uthor Sinead McCormack
+# Author Sinead McCormack
 
 import random
 
