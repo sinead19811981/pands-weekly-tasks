@@ -24,7 +24,7 @@ number = int(input("Please enter a positive Number: "))
 while number !=1:
     collatz(number)
     number = collatz(number)
-    print(number)
+    print(number, end= ' ')
   
 
 
